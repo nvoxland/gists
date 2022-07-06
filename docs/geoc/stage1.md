@@ -1,6 +1,6 @@
 ## You're On Your Way!
 
-### Now look under:
+### Don't worry... Not in the tube
 
 ![Stage 1 Image](stage1.jpg)
 

@@ -1,6 +1,6 @@
 ## Nice Job!
 
-### Now brush off your knees and look for this:
+### One... Two... Tree??
 
 ![Stage 2 Image](stage2.jpg)
 

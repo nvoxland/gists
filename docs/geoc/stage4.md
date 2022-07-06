@@ -1,6 +1,6 @@
-## Getting Closer...
+## Look Out!
 
-### Way Down Low:
+### Giant Chicken Foot!!!
 
 ![Stage 4 Image](stage4.jpg)
 

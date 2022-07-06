@@ -1,6 +1,6 @@
 ## You Found It!
 
-### This scans without even opening:
+### Now don't get lost
 
 ![Stage 3 Image](stage3.jpg)
 

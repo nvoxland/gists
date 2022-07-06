@@ -1,6 +1,6 @@
 ## Last Stop!
 
-### Watch For Cars, Check the Trees 
+### Don't get stumped now
 
 ![Stage 5 Image](stage5.jpg)
 
