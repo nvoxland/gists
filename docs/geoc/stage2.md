@@ -1,6 +1,6 @@
 ## Nice Job!
 
-### One... Two... Tree??
+### I'm Posting the Next Clue Here
 
 ![Stage 2 Image](stage2.jpg)
 
