@@ -1,7 +1,7 @@
-## Nice Job!
+## You Found It!
 
-### I'm Posting the Next Clue Here
+### Now don't get lost
 
-![Stage 2 Image](stage2.jpg)
+![Stage 3 Image](stage3.jpg)
 
 [Geocache GC9W5JK](https://coord.info/GC9W5JK)
