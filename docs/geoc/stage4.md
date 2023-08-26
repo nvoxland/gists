@@ -1,7 +1,7 @@
-## Last Stop!
+## Look Out!
 
-### Don't get stumped now
+### Giant Chicken Foot!!!
 
-![Stage 5 Image](stage5.jpg)
+![Stage 4 Image](stage4.jpg)
 
 [Geocache GC9W5JK](https://coord.info/GC9W5JK)
